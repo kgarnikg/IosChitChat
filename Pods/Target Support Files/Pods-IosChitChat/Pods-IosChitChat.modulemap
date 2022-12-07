@@ -1,0 +1,6 @@
+framework module Pods_IosChitChat {
+  umbrella header "Pods-IosChitChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
